@@ -1,7 +1,8 @@
-<?php 
+<?php
 
 
-echo "welcome";
+echo "Welcome";
+
 
 
 ?>
